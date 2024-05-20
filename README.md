@@ -1,5 +1,5 @@
 <h1>
-  <a href="https://russellshanenavarez.github.io/Calculator/">RussCalculus</a>
+  <a href="https://russellshanenavarez.github.io/Calculator/">First Calculator</a>
 </h1>
 
 <h3>A calculator made in HTML, CSS & Javascript</h3>
